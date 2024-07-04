@@ -128,6 +128,7 @@ python train_model.py
 Make sure to replace `path/to/save/model_accuracy.png`, `path/to/save/model_loss.png`, `path/to/save/confusion_matrix.png`, and `path/to/save/roc_auc.png` with the actual paths where the images will be saved.
 ```
 
-![Model Accuracy](images/model accuracy.png)
-![Model Loss](images/model loss.png)
-![Confusion Matrix With Normalization](images/confusion matrix.png)
+![Model Accuracy](/model_accuracy.png)
+![Model Loss](/model_loss.png)
+![Confusion Matrix With Normalization](/confusion_matrix.png)
+
